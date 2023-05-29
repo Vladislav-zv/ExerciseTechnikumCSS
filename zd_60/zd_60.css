@@ -1,0 +1,26 @@
+#block1_zghurskyi{
+    width: 630px;
+    background-color: green;
+}
+#block2_zghurskyi{
+    width: 630px;
+    background-color: green;
+}
+#block3_zghurskyi{
+    width: 630px;
+    background-color: green;
+}
+
+
+#block1_zghurskyi:hover{
+    font-size: 19mm;
+    background-color: red;
+}
+#block2_zghurskyi:hover{
+    font-size: 19mm;
+    background-color: orange;
+}
+#block3_zghurskyi:hover{
+    font-size: 19mm;
+    background-color: yellow;
+}

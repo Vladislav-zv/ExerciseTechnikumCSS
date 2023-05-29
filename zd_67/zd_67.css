@@ -1,0 +1,21 @@
+#p_1
+ {
+ color:yellow;
+ font-size:24pt;
+ }
+#p_1:first-letter
+ {
+ color:red;
+ font-size:115pt;
+ }
+
+ #p_2
+ {
+ color:yellow;
+ font-size:22pt;
+ }
+ #p_2:first-letter
+ {
+ color:red;
+ font-size:115pt;
+ }
